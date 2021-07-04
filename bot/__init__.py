@@ -56,4 +56,4 @@ logging.basicConfig(
 )
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 logging.getLogger("urllib3").setLevel(logging.WARNING)
-LOGGER = logging.getLogger(__name__)
+LOGGER = logging.getLogger(__name__) 
