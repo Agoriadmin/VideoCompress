@@ -11,7 +11,7 @@
   ],
   "success_url": "https://t.me/linux_repo",
   "website": "https://t.me/Discovery_Updates",
-  "repository": "https://github.com/AbirHasan2005/VideoCompress",
+  "repository": "https://github.com/Agoriadmin/VideoCompress",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
@@ -19,7 +19,7 @@
     },
     "SESSION_NAME": {
       "description": "Keep this default",
-      "value": "AHCompressBot",
+      "value": "AGCompressBot",
       "required": true
     },
     "DATABASE_URL": {
